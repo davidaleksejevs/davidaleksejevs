@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-<a href="mailto:david.aleksejevs@gmail.com"><img src="https://www.clipartmax.com/png/small/149-1497988_office%40izks-mainz-de-transparent-background-email-logos.png" alt="email link" style="width:20px;height:20px;"></a>
+<a href="mailto:david.aleksejevs@gmail.com"><img src="https://www.clipartmax.com/png/small/149-1497988_office%40izks-mainz-de-transparent-background-email-logos.png" alt="email link" width="22px"></a>
 <!--[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
