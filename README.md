@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-<a href="mailto:david.aleksejevs@gmail.com"><img src="https://www.clipartmax.com/png/small/149-1497988_office%40izks-mainz-de-transparent-background-email-logos.png" alt="email link" width="22px"></a>
+<a href="mailto:david.aleksejevs@tutanota.com"><img src="https://www.clipartmax.com/png/small/149-1497988_office%40izks-mainz-de-transparent-background-email-logos.png" alt="email link" width="22px"></a>
 <!--[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -22,7 +22,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="song im playing right now!" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<iframe src="https://open.spotify.com/embed/track/0Pl5XX0MbdQ5E702GBhnUn" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>](https://open.spotify.com/playlist/6MZVl02bqQSQPVvpVvFOh5)
 
 ### Languages and Tools:
 
