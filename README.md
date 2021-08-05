@@ -20,9 +20,9 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 -->
 
-### Spotify Playing 🎧
+[### Spotify Playing 🎧
 
-[<iframe src="https://open.spotify.com/embed/track/0Pl5XX0MbdQ5E702GBhnUn" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>](https://open.spotify.com/playlist/6MZVl02bqQSQPVvpVvFOh5)
+[<iframe src="https://open.spotify.com/embed/track/0Pl5XX0MbdQ5E702GBhnUn" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>](https://open.spotify.com/playlist/6MZVl02bqQSQPVvpVvFOh5)](url)
 
 ### Languages and Tools:
 
