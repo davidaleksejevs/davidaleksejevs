@@ -6,7 +6,7 @@
 ## I'm a student and a aspiring developer!!
 
 <!--- 🔭 I just finiished my first project! -->
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning react
 - 👯 I’m looking to collaborate with other people
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love ai and wish to learn more about it!!
