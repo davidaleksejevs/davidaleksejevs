@@ -8,7 +8,7 @@
 <!--- 🔭 I just finiished my first project! -->
 - 🌱 I’m currently learning react
 - 👯 I’m looking to collaborate with other people
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love ai and wish to learn more about it!!
 
 ### Connect with me:
