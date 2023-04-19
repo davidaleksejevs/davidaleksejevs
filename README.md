@@ -1,15 +1,13 @@
 ### Hi there, I'm David 👋
 [![HitCount](http://hits.dwyl.com/davidaleksejevs/davidaleksejevs/davidaleksejevs.svg)](http://hits.dwyl.com/davidaleksejevs/davidaleksejevs/davidaleksejevs)
 <br />
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a student and a aspiring developer!!
+## I'm a student and an aspiring developer!!
 
-<!--- 🔭 I just finiished my first project! -->
-- 🌱 I’m currently learning react
-- 👯 I’m looking to collaborate with other people
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love ai and wish to learn more about it!!
+- 🌱 I’m currently learning React, Node.js, and Python.
+- 👯 I’m looking to collaborate with other developers on open source projects.
+- 🥅 2023 Goals: Contribute more to open source projects and build some cool applications!
+- ⚡ Fun fact: I love AI and wish to learn more about it!
 
 ### Connect with me:
 
@@ -20,20 +18,11 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 -->
 
-
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<br />
-<br />
-
-<!--[website]:
-[twitter]: 
-[youtube]: 
-[instagram]: 
-[linkedin]: 
--->
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/606ebd5a1a5ed5b77d00df57e2ea187b1fdab7f8/topics/visual-studio-code/vscode.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/606ebd5a1a5ed5b77d00df57e2ea187b1fdab7f8/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/606ebd5a1a5ed5b77d00df57e2ea187b1fdab7f8/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/606ebd5a1a5ed5b77d00df57e2ea187b1fdab7f8/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/606ebd5a1a5ed5b77d00df57e2ea187b1fdab7f8/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/606ebd5a1a5ed5b77d00df57e2ea187b1fdab7f8/topics
