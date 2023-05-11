@@ -20,7 +20,7 @@ I am a highly motivated and experienced developer with a strong passion for arti
 - Git
 - GitHub
 
-## Projects
+## Live Projects
 
 - [Landing Page](https://davidaleksejevs.github.io/landing-page/)
 - [Odin Recipes](https://davidaleksejevs.github.io/odin-recipes)
